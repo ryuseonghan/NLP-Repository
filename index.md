@@ -1,4 +1,4 @@
-# [Deep Learning for NLP](https://ryuseonghan.github.io/deep-nlp)
+# [Deep Learning for NLP](https://ryuseonghan.github.io/Deep-NLP)
 
 ## Video Lecture
 
