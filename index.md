@@ -6,6 +6,7 @@
 - [Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures), Phil Blunsom, 2017 
 - [Deep Learning for NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture), Nils Reimers, 2015
 - [Neural Networks](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html), Hugo Larochelle, 2013
+- [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730), Vincent Vanhoucke, 2016
 - [모두를 위한 딥러닝](http://hunkim.github.io/ml/), 김성훈, 2016
 - [모두를 위한 Reinforcement Learning](http://hunkim.github.io/ml/), 김성훈, 2017
 - [C++로 배우는 Deep Learning](http://blog.naver.com/atelierjpro), 홍정모, 2016
