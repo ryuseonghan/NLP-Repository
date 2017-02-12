@@ -30,8 +30,13 @@
 - [DeepMind Q&A Dataset](http://cs.nyu.edu/~kcho/DMQA/)
 - [Ubuntu Dialogue Corpus](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
 
-## Code
+## Library & Code
 
+- [TensorFlow](https://www.tensorflow.org/), Apache License 2.0
+- [Theano](http://www.deeplearning.net/software/theano/)
+- [Keras](https://keras.io/), MIT license
+- [The Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/) (previously known as CNTK)
+- [RNNLM Toolkit](http://www.fit.vutbr.cz/~imikolov/rnnlm/)
 - [word2vec](https://code.google.com/p/word2vec/), Apache License 2.0
 - [GloVe](https://github.com/stanfordnlp/GloVe), Apache License 2.0
 - [gensimn](https://github.com/RaRe-Technologies/gensim), LGPL v2.1
@@ -40,6 +45,7 @@
 
 ### Word Embedding
 
+- [Glove: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf), Jeffrey Pennington et al., EMNLP, 2014 [[Code]](https://github.com/stanfordnlp/GloVe)
 - [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf), Tomas Mikolov et al., ICLR, 2013
 - [Distributed Representations of Words and Phrases and their Compositionality](http://arxiv.org/pdf/1310.4546.pdf), Tomas Mikolov et al., NIPS, 2013
 - [Linguistic Regularities in Continuous Space Word Representations](http://research.microsoft.com/pubs/189726/rvecs.pdf), Tomas Mikolov et al., NAACL-HLT, 2013
