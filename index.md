@@ -46,8 +46,9 @@
 
 ### Question Answering
 
-- [Question Answering with Subgraph Embeddings](https://arxiv.org/pdf/1406.3676v3.pdf), Antoine Bordes et al., EMNLP, 2014
 - [Question Answering over Freebase with Multi-Column Convolutional Neural Networks](http://www.anthology.aclweb.org/P/P15/P15-1026.pdf), Li Dong et al., ACL-IJCNLP, 2015
+- [Question Answering with Subgraph Embeddings](https://arxiv.org/pdf/1406.3676v3.pdf), Antoine Bordes et al., EMNLP, 2014
+- [Semantic Parsing for Single-Relation Question Answering](https://www.microsoft.com/en-us/research/publication/semantic-parsing-for-single-relation-question-answering/), Wen-tau Yih et al., ACL, 2014
 
 ### Chatbot
 
@@ -73,7 +74,13 @@
 ### Sentiment Analysis
 
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882), Yoon Kim, EMNLP, 2014
+- [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf), Richard Socher et al., EMNLP, 2013
 
 ### Machine Translation
 
+- [A Character-level Decoder without Explicit Segmentation for Neural Machine Translation](https://www.aclweb.org/anthology/P/P16/P16-1160.pdf), Junyoung Chung et al., ACL, 2016
 - [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078), Kyunghyun Cho et al., EMNLP, 2014
+
+### Entity Linking
+
+- [Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation](http://ir.hit.edu.cn/~dytang/paper/ijcai2015/ijcai15-yaming.pdf), Yaming Sun et al., IJCAI, 2015
