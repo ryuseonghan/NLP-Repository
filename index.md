@@ -36,29 +36,33 @@
 - [GloVe](https://github.com/stanfordnlp/GloVe), Apache License 2.0
 - [gensimn](https://github.com/RaRe-Technologies/gensim), LGPL v2.1
 
-## Research Papers
+## Research Paper
 
 ### Question Answering
 
-- [Question Answering with Subgraph Embeddings](https://arxiv.org/pdf/1406.3676v3.pdf), Antoine Bordes, Sumit Chopra, Jason Weston, EMNLP 2014
-- [Question Answering over Freebase with Multi-Column Convolutional Neural Networks](http://www.anthology.aclweb.org/P/P15/P15-1026.pdf), Li Dong, Furu Wei, Ming Zhou, Ke Xu, ACL-IJCNLP 2015
+- [Question Answering with Subgraph Embeddings](https://arxiv.org/pdf/1406.3676v3.pdf), Antoine Bordes et al., EMNLP 2014
+- [Question Answering over Freebase with Multi-Column Convolutional Neural Networks](http://www.anthology.aclweb.org/P/P15/P15-1026.pdf), Li Dong et al., ACL-IJCNLP 2015
 
 ### Chatbot
 
-- [A Neural Conversational Model](https://arxiv.org/abs/1506.05869), Oriol Vinyals, Quoc Le, ICML 2015
-- [Neural Responding Machine for Short-Text Conversation](https://arxiv.org/abs/1503.02364), Lifeng Shang, Zhengdong Lu, Hang Li, ACL 2015
+- [A Neural Conversational Model](https://arxiv.org/abs/1506.05869), Oriol Vinyals et al., ICML 2015
+- [Neural Responding Machine for Short-Text Conversation](https://arxiv.org/abs/1503.02364), Lifeng Shang et al., ACL 2015
 
 ### Language Model
 
-- [Recurrent Neural Network based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf), Tomas Mikolov, Martin Karafiat, Lukas Burget, Jan Cernocky, Sanjeev Khudanpur, Interspeech 2010
+- [Recurrent Neural Network based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf), Tomas Mikolov et al., Interspeech 2010
  
 ### Dialog System
 
-- [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen, David Vandyke, Nikola Mrkšic, Milica Gašic, Lina M. Rojas-Barahona, Pei-Hao Su, Stefan Ultes, Steve Young, arXiv 2016
+- [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., arXiv 2016
+
+### Named Entity Recognition
+
+- [Investigation of Recurrent-Neural-Network Architectures and Learning Methods for Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/investigation-of-recurrent-neural-network-architectures-and-learning-methods-for-spoken-language-understanding/), Grégoire Mesnil et al., Interspeech 2013
 
 ### Natural Language Generation
 
-- [Stochastic Language Generation in Dialogue using Recurrent Neural Networks with Convolutional Sentence Reranking](http://www.sigdial.org/workshops/conference16/proceedings/pdf/SIGDIAL39.pdf), Tsung-Hsien Wen, Milica Gasic, Dongho Kim, Nikola Mrksic, Pei-Hao Su, David Vandyke and Steve Young, SIGDIAL 2015
+- [Stochastic Language Generation in Dialogue using Recurrent Neural Networks with Convolutional Sentence Reranking](http://www.sigdial.org/workshops/conference16/proceedings/pdf/SIGDIAL39.pdf), Tsung-Hsien Wen et al., SIGDIAL 2015
 
 ### Sentiment Analysis
 
@@ -66,4 +70,4 @@
 
 ### Machine Translation
 
-- [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078), Kyunghyun Cho, Bart van Merrienboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, Yoshua Bengio, EMNLP 2014
+- [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078), Kyunghyun Cho et al., EMNLP 2014
