@@ -17,7 +17,7 @@
 
 - [Deep Learning](http://www.deeplearningbook.org/), MIT Press, 2016
 
-## Data set
+## Data Set
 
 - [The bAbI Project](https://research.fb.com/projects/babi/)
 	- The (20) QA bAbI tasks
