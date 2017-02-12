@@ -38,36 +38,42 @@
 
 ## Research Paper
 
+### Word Embedding
+
+- [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf), Tomas Mikolov et al., ICLR, 2013
+- [Distributed Representations of Words and Phrases and their Compositionality](http://arxiv.org/pdf/1310.4546.pdf), Tomas Mikolov et al., NIPS, 2013
+- [Linguistic Regularities in Continuous Space Word Representations](http://research.microsoft.com/pubs/189726/rvecs.pdf), Tomas Mikolov et al., NAACL-HLT, 2013
+
 ### Question Answering
 
-- [Question Answering with Subgraph Embeddings](https://arxiv.org/pdf/1406.3676v3.pdf), Antoine Bordes et al., EMNLP 2014
-- [Question Answering over Freebase with Multi-Column Convolutional Neural Networks](http://www.anthology.aclweb.org/P/P15/P15-1026.pdf), Li Dong et al., ACL-IJCNLP 2015
+- [Question Answering with Subgraph Embeddings](https://arxiv.org/pdf/1406.3676v3.pdf), Antoine Bordes et al., EMNLP, 2014
+- [Question Answering over Freebase with Multi-Column Convolutional Neural Networks](http://www.anthology.aclweb.org/P/P15/P15-1026.pdf), Li Dong et al., ACL-IJCNLP, 2015
 
 ### Chatbot
 
-- [A Neural Conversational Model](https://arxiv.org/abs/1506.05869), Oriol Vinyals et al., ICML 2015
-- [Neural Responding Machine for Short-Text Conversation](https://arxiv.org/abs/1503.02364), Lifeng Shang et al., ACL 2015
+- [A Neural Conversational Model](https://arxiv.org/abs/1506.05869), Oriol Vinyals et al., ICML, 2015
+- [Neural Responding Machine for Short-Text Conversation](https://arxiv.org/abs/1503.02364), Lifeng Shang et al., ACL, 2015
 
 ### Language Model
 
-- [Recurrent Neural Network based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf), Tomas Mikolov et al., Interspeech 2010
+- [Recurrent Neural Network based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf), Tomas Mikolov et al., Interspeech, 2010
  
 ### Dialog System
 
-- [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., arXiv 2016
+- [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., arXiv, 2016
 
 ### Named Entity Recognition
 
-- [Investigation of Recurrent-Neural-Network Architectures and Learning Methods for Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/investigation-of-recurrent-neural-network-architectures-and-learning-methods-for-spoken-language-understanding/), Grégoire Mesnil et al., Interspeech 2013
+- [Investigation of Recurrent-Neural-Network Architectures and Learning Methods for Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/investigation-of-recurrent-neural-network-architectures-and-learning-methods-for-spoken-language-understanding/), Grégoire Mesnil et al., Interspeech, 2013
 
 ### Natural Language Generation
 
-- [Stochastic Language Generation in Dialogue using Recurrent Neural Networks with Convolutional Sentence Reranking](http://www.sigdial.org/workshops/conference16/proceedings/pdf/SIGDIAL39.pdf), Tsung-Hsien Wen et al., SIGDIAL 2015
+- [Stochastic Language Generation in Dialogue using Recurrent Neural Networks with Convolutional Sentence Reranking](http://www.sigdial.org/workshops/conference16/proceedings/pdf/SIGDIAL39.pdf), Tsung-Hsien Wen et al., SIGDIAL, 2015
 
 ### Sentiment Analysis
 
-- [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882), Yoon Kim, EMNLP 2014
+- [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882), Yoon Kim, EMNLP, 2014
 
 ### Machine Translation
 
-- [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078), Kyunghyun Cho et al., EMNLP 2014
+- [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078), Kyunghyun Cho et al., EMNLP, 2014
