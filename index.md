@@ -45,7 +45,8 @@
 
 ### Word Embedding
 
-- [Glove: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf), Jeffrey Pennington et al., EMNLP, 2014 [[Code]](https://github.com/stanfordnlp/GloVe)
+- [Distributed Representations of Sentences and Document](https://arxiv.org/abs/1405.4053), Quoc V. Le et al., ICML, 2014
+- [Glove: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf), Jeffrey Pennington et al., EMNLP, 2014
 - [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf), Tomas Mikolov et al., ICLR, 2013
 - [Distributed Representations of Words and Phrases and their Compositionality](http://arxiv.org/pdf/1310.4546.pdf), Tomas Mikolov et al., NIPS, 2013
 - [Linguistic Regularities in Continuous Space Word Representations](http://research.microsoft.com/pubs/189726/rvecs.pdf), Tomas Mikolov et al., NAACL-HLT, 2013
@@ -68,10 +69,16 @@
 ### Dialog System
 
 - [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., arXiv, 2016
+- [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/abs/1507.04808), Iulian V. Serban et al., AAAI, 2016
 
 ### Named Entity Recognition
 
 - [Investigation of Recurrent-Neural-Network Architectures and Learning Methods for Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/investigation-of-recurrent-neural-network-architectures-and-learning-methods-for-spoken-language-understanding/), Grégoire Mesnil et al., Interspeech, 2013
+
+### Dialog Management
+
+- [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/abs/1606.02560), Tiancheng Zhao et al., SIGDIAL, 2016
+- [Word-Based Dialog State Tracking with Recurrent Neural Networks](http://www.sigdial.org/workshops/sigdial2014/proceedings/pdf/W14-4340.pdf), Matthew Henderson et al., SIGDIAL, 2014
 
 ### Natural Language Generation
 
