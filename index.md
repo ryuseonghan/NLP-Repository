@@ -29,6 +29,7 @@
 	- The SimpleQuestions dataset
 - [DeepMind Q&A Dataset](http://cs.nyu.edu/~kcho/DMQA/)
 - [Ubuntu Dialogue Corpus](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
+- [Large Movie Review Dataset (IMDB)](http://ai.stanford.edu/~amaas/data/sentiment/)
 
 ## Library & Code
 
