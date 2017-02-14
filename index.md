@@ -1,4 +1,9 @@
-# [Deep Learning for NLP](https://ryuseonghan.github.io/Deep-NLP)
+# [Deep Learning for NLP](https://ryuseonghan.github.io/Deep-NLP) 
+
+## Sharing
+
+[![Facebook](https://github.com/ryuseonghan/Deep-NLP/blob/master/img/fb.png?raw=true)](https://www.facebook.com/sharer/sharer.php?u=https://ryuseonghan.github.io/Deep-NLP)
+[![Twitter](https://github.com/ryuseonghan/Deep-NLP/blob/master/img/tt.png?raw=true)](http://twitter.com/home?status=https://ryuseonghan.github.io/Deep-NLP)
 
 ## Video Lecture
 
@@ -17,9 +22,9 @@
 
 - [Deep Learning](http://www.deeplearningbook.org/), MIT Press, 2016
 
-## Data Set
+## Dataset
 
-- [The bAbI Project](https://research.fb.com/projects/babi/)
+- [The bAbI Project (Facebook)](https://research.fb.com/projects/babi/)
 	- The (20) QA bAbI tasks
 	- The (6) Dialog bAbI tasks
 	- The Children's Book test
@@ -30,6 +35,14 @@
 - [DeepMind Q&A Dataset](http://cs.nyu.edu/~kcho/DMQA/)
 - [Ubuntu Dialogue Corpus](https://github.com/rkadlec/ubuntu-ranking-dataset-creator)
 - [Large Movie Review Dataset (IMDB)](http://ai.stanford.edu/~amaas/data/sentiment/)
+- [The WikiText Language Modeling Dataset](https://metamind.io/research/the-wikitext-long-term-dependency-language-modeling-dataset/)
+- [Question Pairs (Quora)](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)
+- [SQuAD (Stanford)](https://rajpurkar.github.io/SQuAD-explorer/)
+- [Question-Answer Dataset (CMU)](http://www.cs.cmu.edu/~ark/QA-data/)
+- [NewsQA dataset (Maluuba)](https://datasets.maluuba.com/NewsQA)
+- [Frames Dataset (Maluuba)](https://datasets.maluuba.com/Frames)
+- [1 Billion Word Language Model Benchmark](http://www.statmt.org/lm-benchmark/)
+- [Common Crawl](http://commoncrawl.org/the-data/)
 
 ## Library & Code
 
@@ -66,6 +79,11 @@
 ### Language Model
 
 - [Recurrent Neural Network based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf), Tomas Mikolov et al., Interspeech, 2010
+
+### Image Captioning
+
+- [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555), Oriol Vinyals et al., CVPR, 2015
+- [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf), Andrej Karpathy et al., CVPR, 2015 [[Code]](https://github.com/karpathy/neuraltalk) [[Demo]](http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/)
  
 ### Dialog System
 
@@ -98,3 +116,8 @@
 ### Entity Linking
 
 - [Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation](http://ir.hit.edu.cn/~dytang/paper/ijcai2015/ijcai15-yaming.pdf), Yaming Sun et al., IJCAI, 2015
+
+## Reference
+
+- [Awesome RNN](https://github.com/kjw0612/awesome-rnn)
+- [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.gt16rgbjr)
