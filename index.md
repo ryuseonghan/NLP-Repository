@@ -2,7 +2,7 @@
 
 A curated list of resources about deep learning for natural language processing (NLP).
 
-Maintained by [Seonghan Ryu](https://github.com/ryuseonghan/Deep-NLP).
+Maintained by [Seonghan Ryu](https://github.com/ryuseonghan).
 
 Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 
@@ -13,12 +13,12 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 
 ## Table of Contents
 
-- Video Lectures
-- Books
-- Datasets
-- Libraries & Codes
-- Research Papers
-- References
+- [Video Lectures](#video-lectures)
+- [Books](#books)
+- [Datasets](#datasets)
+- [Libraries](#libraries)
+- [Research Papers](#research-papers)
+- [References](#references)
 
 ## Video Lectures
 
@@ -59,7 +59,7 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 - [1 Billion Word Language Model Benchmark](http://www.statmt.org/lm-benchmark/)
 - [Common Crawl](http://commoncrawl.org/the-data/)
 
-## Libraries & Codes
+## Libraries
 
 - [TensorFlow](https://www.tensorflow.org/), Apache License 2.0
 - [Theano](http://www.deeplearning.net/software/theano/)
@@ -92,7 +92,7 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 
 - [Question Answering over Freebase with Multi-Column Convolutional Neural Networks](http://www.anthology.aclweb.org/P/P15/P15-1026.pdf), Li Dong et al., ACL-IJCNLP, 2015
 - [Large-scale Simple Question Answering with Memory Networks](https://arxiv.org/abs/1506.02075), Antoine Bordes et al., arXiv, 2015
-- [End-to-end Memory Networks](https://arxiv.org/abs/1503.08895), Sainbayar Sukhbaatar et al., NIPS, 2015
+- [End-to-end Memory Networks](https://arxiv.org/abs/1503.08895), Sainbayar Sukhbaatar et al., NIPS, 2015 [[Code]](https://github.com/facebook/MemNN)
 - [Question Answering with Subgraph Embeddings](https://arxiv.org/pdf/1406.3676v3.pdf), Antoine Bordes et al., EMNLP, 2014
 - [Memory Networks](https://arxiv.org/abs/1410.3916), Jason Weston et al., arXiv, 2014
 - [Semantic Parsing for Single-Relation Question Answering](https://www.microsoft.com/en-us/research/publication/semantic-parsing-for-single-relation-question-answering/), Wen-tau Yih et al., ACL, 2014
