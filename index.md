@@ -14,6 +14,8 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 ## Table of Contents
 
 - [Video Lectures](#video-lectures)
+- [Presentations](#presentations)
+- [Articles](#articles)
 - [Books](#books)
 - [Datasets](#datasets)
 - [Libraries](#libraries)
@@ -40,12 +42,15 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 
 ## Articles
 
-- [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/), WildML, 2016
-- [Recurrent Neural Networks Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [[Part 1]](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [[Part 2]](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/) [[Part 3]](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/) [[Part 4]](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), WildML, 205
-- [Introduction to Neural Machine Translation with GPUs](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) [[Part 1]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) [[Part 2]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/) [[Part 3]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/), NVIDIA, 2015
-- [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/), WildML, 2015
-- [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), WildML, 2015
-- [Recurrent Neural Networks with Word Embeddings](http://www.deeplearning.net/tutorial/rnnslu.html), deeplearning.net, 2013
+- [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/), Denny Britz, WildML, 2016
+- [Recurrent Neural Networks Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [[Part 1]](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [[Part 2]](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/) [[Part 3]](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/) [[Part 4]](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), Denny Britz, WildML, 205
+- [Introduction to Neural Machine Translation with GPUs](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) [[Part 1]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) [[Part 2]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/) [[Part 3]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/), Kyunghyun Cho, NVIDIA, 2015
+- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), Andrej Karpathy, Blog, 2015
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/), Christopher Olah, Blog, 2015
+- [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/), Denny Britz, WildML, 2015
+- [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), Denny Britz, WildML, 2015
+- [Recurrent Neural Networks with Word Embeddings](http://www.deeplearning.net/tutorial/rnnslu.html),  Grégoire Mesnil, deeplearning.net, 2013
+- [LSTM Networks for Sentiment Analysis](http://www.deeplearning.net/tutorial/lstm.html), Pierre Luc Carrier, deeplearning.net, 2012
 
 ## Books
 
@@ -110,6 +115,7 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 	- [Memory Networks](https://arxiv.org/abs/1410.3916), Jason Weston et al., arXiv, 2014
 	- [Semantic Parsing for Single-Relation Question Answering](https://aclweb.org/anthology/P/P14/P14-2105.pdf), Wen-tau Yih et al., ACL, 2014 [[Poster]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ACL-14-SRQA-Poster.pdf)
 - Chatbot
+	- [A Persona-Based Neural Conversation Model](https://www.microsoft.com/en-us/research/publication/persona-based-neural-conversation-model/), Jiwei Li et al., ACL, 2016
 	- [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/abs/1507.04808), Iulian V. Serban et al., AAAI, 2016
 	- [A Neural Conversational Model](https://arxiv.org/abs/1506.05869), Oriol Vinyals et al., ICML, 2015
 	- [Neural Responding Machine for Short-Text Conversation](https://arxiv.org/abs/1503.02364), Lifeng Shang et al., ACL, 2015
@@ -131,10 +137,13 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 - Entity Linking
 	- [Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation](http://ir.hit.edu.cn/~dytang/paper/ijcai2015/ijcai15-yaming.pdf), Yaming Sun et al., IJCAI, 2015
 - Information Retrieval
-	- [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](http://research.microsoft.com/en-us/um/people/jfgao/paper/2013/cikm2013_DSSM_fullversion.pdf), Po-Sen Huang, CIKM, 2013
+	- [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](http://dl.acm.org/citation.cfm?id=2505665), Po-Sen Huang et al., CIKM, 2013
+- Syntactic Parsing
+	- [Parsing Natural Scenes and Natural Language with Recursive Neural Networks](http://ai.stanford.edu/~ang/papers/icml11-ParsingWithRecursiveNeuralNetworks.pdf), Richard Socher et al., ICML, 2011
 
 ## References
 
 - [Awesome RNN](https://github.com/kjw0612/awesome-rnn)
 - [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers/)
+- [Deep Learning Glossary](http://www.wildml.com/deep-learning-glossary/)
 - [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2#.gt16rgbjr)
