@@ -1,4 +1,4 @@
-# [Deep Learning for NLP](https://ryuseonghan.github.io/Deep-NLP) 
+# [Deep NLP](https://ryuseonghan.github.io/Deep-NLP) 
 
 A curated list of resources about deep learning for natural language processing (NLP).
 
@@ -33,9 +33,25 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 - [Deep Learning (Oxford)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu), Nando de Freitas, 2015
 - [Practical Deep Learning For Coders](http://course.fast.ai/), Jeremy Howard, 2016
 
+## Presentations
+
+- [Sequence Models and the RNN API (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=RIR_-Xlbp7s), Eugene Brevdo, 2017
+- [Deep Natural Language Understanding](https://www.youtube.com/watch?v=K_zKimkoVk8), Kyunghyun Cho, 2016
+
+## Articles
+
+- [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/), WildML, 2016
+- [Recurrent Neural Networks Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [[Part 1]](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [[Part 2]](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/) [[Part 3]](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/) [[Part 4]](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), WildML, 205
+- [Introduction to Neural Machine Translation with GPUs](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) [[Part 1]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) [[Part 2]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/) [[Part 3]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/), NVIDIA, 2015
+- [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/), WildML, 2015
+- [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), WildML, 2015
+- [Recurrent Neural Networks with Word Embeddings](http://www.deeplearning.net/tutorial/rnnslu.html), deeplearning.net, 2013
+
 ## Books
 
-- [Deep Learning](http://www.deeplearningbook.org/), MIT Press, 2016
+- [Deep Learning](http://www.deeplearningbook.org/), Ian Goodfellow et al., MIT Press, 2016
+- [Natural Language Understanding with Distributed Representation](https://arxiv.org/abs/1511.07916), Kyunghyun Cho, Lecture Note, 2016
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), Michael Nielsen, Determination Press, 2015
 
 ## Datasets
 
@@ -85,7 +101,7 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 	- [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/abs/1606.02560), Tiancheng Zhao et al., SIGDIAL, 2016
 	- [Stochastic Language Generation in Dialogue using Recurrent Neural Networks with Convolutional Sentence Reranking](http://www.sigdial.org/workshops/conference16/proceedings/pdf/SIGDIAL39.pdf), Tsung-Hsien Wen et al., SIGDIAL, 2015
 	- [Word-Based Dialog State Tracking with Recurrent Neural Networks](http://www.sigdial.org/workshops/sigdial2014/proceedings/pdf/W14-4340.pdf), Matthew Henderson et al., SIGDIAL, 2014
-	- [Investigation of Recurrent-Neural-Network Architectures and Learning Methods for Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/investigation-of-recurrent-neural-network-architectures-and-learning-methods-for-spoken-language-understanding/), Grégoire Mesnil et al., Interspeech, 2013
+	- [Investigation of Recurrent-Neural-Network Architectures and Learning Methods for Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/investigation-of-recurrent-neural-network-architectures-and-learning-methods-for-spoken-language-understanding/), Grégoire Mesnil et al., Interspeech, 2013 [[Code]](https://github.com/mesnilgr/is13)
 - Question Answering
 	- [Question Answering over Freebase with Multi-Column Convolutional Neural Networks](http://www.anthology.aclweb.org/P/P15/P15-1026.pdf), Li Dong et al., ACL-IJCNLP, 2015
 	- [Large-scale Simple Question Answering with Memory Networks](https://arxiv.org/abs/1506.02075), Antoine Bordes et al., arXiv, 2015
@@ -107,12 +123,15 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 	- [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882), Yoon Kim, EMNLP, 2014
 	- [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf), Richard Socher et al., EMNLP, 2013
 - Machine Translation
+	- [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558), Melvin Johnson et al., arXiv, 2016
 	- [A Character-level Decoder without Explicit Segmentation for Neural Machine Translation](https://www.aclweb.org/anthology/P/P16/P16-1160.pdf), Junyoung Chung et al., ACL, 2016
 	- [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473), Dzmitry Bahdanau et al., ICLR, 2015
 	- [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf), Ilya Sutskever et al., NIPS, 2014
 	- [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/abs/1406.1078), Kyunghyun Cho et al., EMNLP, 2014
 - Entity Linking
 	- [Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation](http://ir.hit.edu.cn/~dytang/paper/ijcai2015/ijcai15-yaming.pdf), Yaming Sun et al., IJCAI, 2015
+- Information Retrieval
+	- [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](http://research.microsoft.com/en-us/um/people/jfgao/paper/2013/cikm2013_DSSM_fullversion.pdf), Po-Sen Huang, CIKM, 2013
 
 ## References
 
