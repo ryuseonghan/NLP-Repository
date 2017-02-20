@@ -29,8 +29,7 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 - [Deep Learning for NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture), Nils Reimers, 2015
 - [Neural Networks](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html), Hugo Larochelle, 2013
 - [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730), Vincent Vanhoucke, 2016
-- [모두를 위한 딥러닝](http://hunkim.github.io/ml/), 김성훈, 2016
-- [모두를 위한 Reinforcement Learning](http://hunkim.github.io/ml/), 김성훈, 2017
+- [모두를 위한 머신러닝 / 딥러닝](http://hunkim.github.io/ml/), 김성훈, 2016
 - [C++로 배우는 Deep Learning](http://blog.naver.com/atelierjpro), 홍정모, 2016
 - [Deep Learning (Oxford)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu), Nando de Freitas, 2015
 - [Practical Deep Learning For Coders](http://course.fast.ai/), Jeremy Howard, 2016
@@ -38,6 +37,7 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 ## Presentations
 
 - [Sequence Models and the RNN API (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=RIR_-Xlbp7s), Eugene Brevdo, 2017
+- [Neural Machine Translation](https://www.youtube.com/watch?v=z4CNmiLF-YU), Kyunghyun Cho, 2016
 - [Deep Natural Language Understanding](https://www.youtube.com/watch?v=K_zKimkoVk8), Kyunghyun Cho, 2016
 
 ## Articles
@@ -49,6 +49,7 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 - [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/), Christopher Olah, Blog, 2015
 - [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/), Denny Britz, WildML, 2015
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), Denny Britz, WildML, 2015
+- [UFLDL: Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/tutorial/), Andrew Ng et al., 2013 [[Wiki]](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 - [Recurrent Neural Networks with Word Embeddings](http://www.deeplearning.net/tutorial/rnnslu.html),  Grégoire Mesnil, deeplearning.net, 2013
 - [LSTM Networks for Sentiment Analysis](http://www.deeplearning.net/tutorial/lstm.html), Pierre Luc Carrier, deeplearning.net, 2012
 
