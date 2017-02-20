@@ -1,6 +1,6 @@
-# [AI & NLP](https://ryuseonghan.github.io/AI-NLP) 
+# [NLP Repository](https://ryuseonghan.github.io/NLP-Repository)
 
-A curated list of resources about artificial intellgience (AI) and natural language processing (NLP).
+A curated list of resources about natural language processing (NLP).
 
 Maintained by [Seonghan Ryu](https://github.com/ryuseonghan).
 
@@ -8,8 +8,8 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 
 ## Sharing
 
-[![Facebook](https://github.com/ryuseonghan/AI-NLP/blob/master/img/fb.png?raw=true)](https://www.facebook.com/sharer/sharer.php?u=https://ryuseonghan.github.io/AI-NLP)
-[![Twitter](https://github.com/ryuseonghan/AI-NLP/blob/master/img/tt.png?raw=true)](http://twitter.com/home?status=https://ryuseonghan.github.io/AI-NLP)
+[![Facebook](https://github.com/ryuseonghan/NLP-Repository/blob/master/img/fb.png?raw=true)](https://www.facebook.com/sharer/sharer.php?u=https://ryuseonghan.github.io/NLP-Repository)
+[![Twitter](https://github.com/ryuseonghan/NLP-Repository/blob/master/img/tt.png?raw=true)](http://twitter.com/home?status=https://ryuseonghan.github.io/NLP-Repository)
 
 ## Table of Contents
 
@@ -27,16 +27,9 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 - [Deep Learning for NLP (Stanford)](http://cs224d.stanford.edu/), Richard Socher, 2016
 - [Deep NLP (Oxford)](https://github.com/oxford-cs-deepnlp-2017/lectures), Phil Blunsom, 2017 
 - [Deep Learning for NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture), Nils Reimers, 2015
-- [Neural Networks](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html), Hugo Larochelle, 2013
-- [Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730), Vincent Vanhoucke, 2016
-- [모두를 위한 머신러닝 / 딥러닝](http://hunkim.github.io/ml/), 김성훈, 2016
-- [C++로 배우는 Deep Learning](http://blog.naver.com/atelierjpro), 홍정모, 2016
-- [Deep Learning (Oxford)](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu), Nando de Freitas, 2015
-- [Practical Deep Learning For Coders](http://course.fast.ai/), Jeremy Howard, 2016
 
 ## Presentations
 
-- [Sequence Models and the RNN API (TensorFlow Dev Summit 2017)](https://www.youtube.com/watch?v=RIR_-Xlbp7s), Eugene Brevdo, 2017
 - [Neural Machine Translation](https://www.youtube.com/watch?v=z4CNmiLF-YU), Kyunghyun Cho, 2016
 - [Deep Natural Language Understanding](https://www.youtube.com/watch?v=K_zKimkoVk8), Kyunghyun Cho, 2016
 
@@ -45,19 +38,14 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 - [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/), Denny Britz, WildML, 2016
 - [Recurrent Neural Networks Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [[Part 1]](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [[Part 2]](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/) [[Part 3]](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/) [[Part 4]](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), Denny Britz, WildML, 205
 - [Introduction to Neural Machine Translation with GPUs](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) [[Part 1]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) [[Part 2]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/) [[Part 3]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/), Kyunghyun Cho, NVIDIA, 2015
-- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/), Andrej Karpathy, Blog, 2015
-- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/), Christopher Olah, Blog, 2015
 - [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/), Denny Britz, WildML, 2015
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), Denny Britz, WildML, 2015
-- [UFLDL: Unsupervised Feature Learning and Deep Learning](http://ufldl.stanford.edu/tutorial/), Andrew Ng et al., 2013 [[Wiki]](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 - [Recurrent Neural Networks with Word Embeddings](http://www.deeplearning.net/tutorial/rnnslu.html),  Grégoire Mesnil, deeplearning.net, 2013
 - [LSTM Networks for Sentiment Analysis](http://www.deeplearning.net/tutorial/lstm.html), Pierre Luc Carrier, deeplearning.net, 2012
 
 ## Books
 
-- [Deep Learning](http://www.deeplearningbook.org/), Ian Goodfellow et al., MIT Press, 2016
 - [Natural Language Understanding with Distributed Representation](https://arxiv.org/abs/1511.07916), Kyunghyun Cho, Lecture Note, 2016
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/), Michael Nielsen, Determination Press, 2015
 
 ## Datasets
 
