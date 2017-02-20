@@ -8,8 +8,8 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 
 ## Sharing
 
-[![Facebook](https://github.com/ryuseonghan/Deep-NLP/blob/master/img/fb.png?raw=true)](https://www.facebook.com/sharer/sharer.php?u=https://ryuseonghan.github.io/Deep-NLP)
-[![Twitter](https://github.com/ryuseonghan/Deep-NLP/blob/master/img/tt.png?raw=true)](http://twitter.com/home?status=https://ryuseonghan.github.io/Deep-NLP)
+[![Facebook](https://github.com/ryuseonghan/AI-NLP/blob/master/img/fb.png?raw=true)](https://www.facebook.com/sharer/sharer.php?u=https://ryuseonghan.github.io/AI-NLP)
+[![Twitter](https://github.com/ryuseonghan/AI-NLP/blob/master/img/tt.png?raw=true)](http://twitter.com/home?status=https://ryuseonghan.github.io/AI-NLP)
 
 ## Table of Contents
 
