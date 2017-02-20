@@ -1,6 +1,6 @@
-# [Deep NLP](https://ryuseonghan.github.io/Deep-NLP) 
+# [AI & NLP](https://ryuseonghan.github.io/AI-NLP) 
 
-A curated list of resources about deep learning for natural language processing (NLP).
+A curated list of resources about artificial intellgience (AI) and natural language processing (NLP).
 
 Maintained by [Seonghan Ryu](https://github.com/ryuseonghan).
 
