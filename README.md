@@ -45,8 +45,12 @@ Related Conferences & Workshops
 - Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)
 - European Chapter of the Association for Computational Linguistics (EACL)
 - Interspeech
+- IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
+- IEEE Workshop on Spoken Language Technology (SLT)
 - Annual SIGdial Meeting on Discourse and Dialogue (SIGdial)
+- International Conference on Language Resources and Evaluation (LREC)
 - International Workshop on Spoken Dialog Systems (IWSDS)
+- International Joint Conference on Natural Language Processing (IJCNLP)
 - AAAI Conference on Artificial Intelligence (AAAI)
 - Annual Conference on Neural Information Processing Systems (NIPS)
 
@@ -136,7 +140,8 @@ Reviews & Tutorials
 
 Research Papers
 
-- [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558), Melvin Johnson et al., arXiv, 2016 
+- [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558), Melvin Johnson et al., arXiv, 2016
+- [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144), Yonghui Wu et al., arXiv, 2016 
 - [A Character-level Decoder without Explicit Segmentation for Neural Machine Translation](https://www.aclweb.org/anthology/P/P16/P16-1160.pdf), Junyoung Chung et al., ACL, 2016
 - [Neural machine translation by jointly learning to align and translate](https://arxiv.org/abs/1409.0473), Dzmitry Bahdanau et al., ICLR, 2015 #Attention
 - [Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) (seq2seq), Ilya Sutskever et al., NIPS, 2014 #Google #seq2seq #LSTM
@@ -174,6 +179,7 @@ Reviews & Tutorials
 
 Research Papers
 
+- [A Convolutional Neural Network for Modelling Sentences](https://arxiv.org/abs/1404.2188v1), Nal Kalchbrenner et al., ACL, 2014 
 - [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882), Yoon Kim, EMNLP, 2014
 - [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf), Richard Socher et al., EMNLP, 2013
 
