@@ -27,15 +27,18 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 
 Video Lectures
 
-- [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/), Richard Socher, Stanford University, 2016
-- [Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures), Phil Blunsom, Oxford University, 2017 
+- [Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures), Phil Blunsom, Oxford University, 2017
+- [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/), Richard Socher, Stanford University, 2016 
 - [Deep Learning for NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture), Nils Reimers, 2015
 - [Natural Language Processing](https://www.youtube.com/playlist?list=PL6397E4B26D00A269), Dan Jurafsky & chris Manning, Coursera, 2012 
 
 Books
 
-- [Natural Language Understanding with Distributed Representation](https://arxiv.org/abs/1511.07916), Kyunghyun Cho, 2016
-- [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726), Yoav Goldberg, 2015
+- [Natural Language Understanding with Distributed Representation](https://arxiv.org/abs/1511.07916), Kyunghyun Cho, arXiv, 2016
+- [A Primer on Neural Network Models for Natural Language Processing](https://arxiv.org/abs/1510.00726), Yoav Goldberg, arXiv, 2015
+- [Spoken Language Understanding](https://www.amazon.com/Spoken-Language-Understanding-Extracting-Information/dp/0470688246), Gokhan Tur and Renato De Mori, Wiley, 2012
+- [Speech and Language Processing](https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210), Daniel Jurafsky and James H. Martin, Prentice Hall, 2008
+- [Foundations of Statistical Natural Language Processing](https://mitpress.mit.edu/books/foundations-statistical-natural-language-processing), Chris Manning and Hinrich Schütze, MIT Press, 1999
 
 Related Conferences & Workshops
 
@@ -65,6 +68,9 @@ Shared Tasks
 
 Reference
 
+- [awesome-rnn](https://github.com/kjw0612/awesome-rnn)
+- [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+- [awesome-nlp](https://github.com/keon/awesome-nlp)
 - [Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP)
 
 ## Distributed Representation
@@ -152,12 +158,14 @@ Research Papers
 Reviews & Tutorials
 
 - [Developing Korean Chatbot 101](https://www.youtube.com/watch?v=i0sQB1DRh84&index=3&list=PLlMkM4tgfjnLHjEoaRKLdbpSIDJhiLtZE), Jaemin Cho, TensorFlow Korea, 2017 [[Slide]](https://www.slideshare.net/JaeminCho6/developing-korean-chatbot-101-71013451)
+- [Chatbots with Seq2Seq](http://suriyadeepan.github.io/2016-06-28-easy-seq2seq/) [[Part 1]](http://suriyadeepan.github.io/2016-06-28-easy-seq2seq/) [[Part 2]](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/), Suriyadeepan Ram, Personal Blog, 2016 
 - [Building AI Chat bot using Python 3 & TensorFlow](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow), Jeongkyu Shin, PyCon, 2016
 - [Deep Learning for Chatbots](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/), Denny Britz, WildML, 2016
 - [Practical seq2seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/), Suriyadeepan Ramamoorthy, Personal Blog, 2016
 
 Research Papers
 
+- [Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547), Jiwei Li et al., arXiv, 2017 [[Code]](https://github.com/jiweil/Neural-Dialogue-Generation) #GAN
 - [A Persona-Based Neural Conversation Model](https://www.microsoft.com/en-us/research/publication/persona-based-neural-conversation-model/), Jiwei Li et al., ACL, 2016
 - [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](https://arxiv.org/abs/1507.04808), Iulian V. Serban et al., AAAI, 2016
 - [A Neural Conversational Model](https://arxiv.org/abs/1506.05869), Oriol Vinyals et al., ICML, 2015 #Google #LSTM #seq2seq
@@ -210,10 +218,13 @@ Datasets
 
 Research Papers
 
+- [Neural Architectures for Named Entity Recognition](http://aclweb.org/anthology/N/N16/N16-1030.pdf), Guillaume Lample et al., NAACL-HLT, 2016
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044), Kelvin Xu, ICML, 2015
 - [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555), Oriol Vinyals et al., CVPR, 2015
 - [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf), Andrej Karpathy et al., CVPR, 2015 [[Code]](https://github.com/karpathy/neuraltalk) [[Demo]](http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/)
 - [Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation](http://ir.hit.edu.cn/~dytang/paper/ijcai2015/ijcai15-yaming.pdf), Yaming Sun et al., IJCAI, 2015
 - [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](http://dl.acm.org/citation.cfm?id=2505665), Po-Sen Huang et al., CIKM, 2013
+- [Improving Efficiency and Accuracy in Multilingual Entity Extraction](https://pdfs.semanticscholar.org/196d/7e0a43587b0216c47a1ddb8cb1875aa1c1d0.pdf) (DBpedia Spotlight), Joachim Daibe et al., I-Semantics, 2013
 - [Parsing Natural Scenes and Natural Language with Recursive Neural Networks](http://ai.stanford.edu/~ang/papers/icml11-ParsingWithRecursiveNeuralNetworks.pdf), Richard Socher et al., ICML, 2011
-- [Local and Global Algorithms for Disambiguation to Wikipedia](http://web.eecs.umich.edu/~mrander/pubs/RatinovDoRo.pdf), Lev Ratinov et al. ACL, 2011 
+- [Robust Disambiguation of Named Entities in Text](http://dl.acm.org/citation.cfm?id=2145521) (AIDA), Johannes Hoffart et al., EMNLP, 2011
+- [Local and Global Algorithms for Disambiguation to Wikipedia](http://web.eecs.umich.edu/~mrander/pubs/RatinovDoRo.pdf), Lev Ratinov et al. ACL, 2011
