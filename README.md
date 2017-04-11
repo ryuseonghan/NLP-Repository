@@ -27,10 +27,10 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 
 Video Lectures
 
+- [Natural Language Processing with Deep Learning](), Chris Manning and Richard Socher, Stanford University, 2017
 - [Deep Natural Language Processing](https://github.com/oxford-cs-deepnlp-2017/lectures), Phil Blunsom, Oxford University, 2017
-- [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/), Richard Socher, Stanford University, 2016 
 - [Deep Learning for NLP](https://github.com/UKPLab/deeplearning4nlp-tutorial/tree/master/2015-10_Lecture), Nils Reimers, 2015
-- [Natural Language Processing](https://www.youtube.com/playlist?list=PL6397E4B26D00A269), Dan Jurafsky & chris Manning, Coursera, 2012 
+- [Natural Language Processing](https://www.youtube.com/playlist?list=PL6397E4B26D00A269), Dan Jurafsky & Chris Manning, Coursera, 2012 
 
 Books
 
@@ -77,10 +77,14 @@ Reference
 
 Reviews & Tutorials
 
+- [Representations for Language: From Word Embeddings to Sentence Meanings](https://www.youtube.com/watch?v=nFCxTtBqF5U), Christopher Manning, Representation Learning Workshop, 2017
 - [word2vec 관련 이론 정리](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/), Beomsu Kim, Personal Blog, 2016
+- [On Word Embedding](http://sebastianruder.com/word-embeddings-1/index.html) [[Part 1]](http://sebastianruder.com/word-embeddings-1/index.html) [[Part 2]](http://sebastianruder.com/word-embeddings-softmax/index.html) [[Part 3]](http://sebastianruder.com/secret-word2vec/index.html), Sebastian Ruder, Personal Blog, 2015
 
 Research Papers
 
+- [A Hierarchical Neural Autoencoder for Paragraphs and Documents](https://arxiv.org/abs/1506.01057), Jiwei Li et al., ACL, 2015 [[Code]](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)
+- [Improving Distributional Similarity with Lessons Learned from Word Embeddings](http://www.aclweb.org/anthology/Q15-1016), Omer Levy et al., TACL, 2015. 
 - [Distributed Representations of Sentences and Document](https://arxiv.org/abs/1405.4053) (Paragraph Vector), Quoc V. Le et al., ICML, 2014
 - [Glove: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf), Jeffrey Pennington et al., EMNLP, 2014 [[GloVe]](https://github.com/stanfordnlp/GloVe)
 - [Learning word embeddings efficiently with noise-contrastive estimation](http://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf), Andriy Mnih et al., NIPS, 2013
@@ -219,6 +223,7 @@ Datasets
 Research Papers
 
 - [Neural Architectures for Named Entity Recognition](http://aclweb.org/anthology/N/N16/N16-1030.pdf), Guillaume Lample et al., NAACL-HLT, 2016
+- [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://www.aclweb.org/anthology/P15-1150), Kai Sheng Tai et al., ACL, 2015
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044), Kelvin Xu, ICML, 2015
 - [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555), Oriol Vinyals et al., CVPR, 2015
 - [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf), Andrej Karpathy et al., CVPR, 2015 [[Code]](https://github.com/karpathy/neuraltalk) [[Demo]](http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/)
