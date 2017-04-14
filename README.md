@@ -44,18 +44,18 @@ Related Conferences & Workshops
 
 - Annual Meeting of the Association for Computational Linguistics (ACL)
 - Conference on Empirical Methods in Natural Language Processing (EMNLP)
-- International Conference on Computational Linguistics (COLING)
-- Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)
+- ACM International Conference on Research and Development in Information Retrieval (SIGIR)
+- International World Wide Web Conference (WWW)
 - European Chapter of the Association for Computational Linguistics (EACL)
+- Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)
+- International Conference on Computational Linguistics (COLING)
+- International Joint Conference on Natural Language Processing (IJCNLP)
 - Interspeech
 - IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
 - IEEE Workshop on Spoken Language Technology (SLT)
 - Annual SIGdial Meeting on Discourse and Dialogue (SIGdial)
 - International Conference on Language Resources and Evaluation (LREC)
 - International Workshop on Spoken Dialog Systems (IWSDS)
-- International Joint Conference on Natural Language Processing (IJCNLP)
-- AAAI Conference on Artificial Intelligence (AAAI)
-- Annual Conference on Neural Information Processing Systems (NIPS)
 
 Shared Tasks
 
@@ -83,6 +83,7 @@ Reviews & Tutorials
 
 Research Papers
 
+- [Swivel: Improving Embeddings by Noticing What's Missing](https://arxiv.org/abs/1602.02215), Noam Shazeer et al., arxiv, 2016 [[Code]](https://github.com/tensorflow/models/tree/master/swivel) #Google
 - [A Hierarchical Neural Autoencoder for Paragraphs and Documents](https://arxiv.org/abs/1506.01057), Jiwei Li et al., ACL, 2015 [[Code]](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)
 - [Improving Distributional Similarity with Lessons Learned from Word Embeddings](http://www.aclweb.org/anthology/Q15-1016), Omer Levy et al., TACL, 2015. 
 - [Distributed Representations of Sentences and Document](https://arxiv.org/abs/1405.4053) (Paragraph Vector), Quoc V. Le et al., ICML, 2014
@@ -208,6 +209,7 @@ Reviews & Tutorials
 
 Research Papers
 
+- [Recurrent Highway Networks](https://arxiv.org/abs/1607.03474), Julian Georg Zilly et al., arXiv, 2017 [[Code]](https://github.com/julian121266/RecurrentHighwayNetworks)
 - [Recurrent Neural Network based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf), Tomas Mikolov et al., Interspeech, 2010 [[Code]](http://www.fit.vutbr.cz/~imikolov/rnnlm/)
 - [A Scalable Hierarchical Distributed Language Model](https://papers.nips.cc/paper/3583-a-scalable-hierarchical-distributed-language-model) (Hierarchical Softmax), Andriy Mnih, NIPS, 2008
 - [A Neural Probabilistic Language Model](https://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model.pdf), Yoshua Bengio et al., NIPS, 2001
