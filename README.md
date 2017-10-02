@@ -11,18 +11,6 @@ Inspired by the [awsome lists](https://github.com/sindresorhus/awesome).
 [![Facebook](https://github.com/ryuseonghan/NLP-Repository/blob/master/img/fb.png?raw=true)](https://www.facebook.com/sharer/sharer.php?u=https://ryuseonghan.github.io/NLP-Repository)
 [![Twitter](https://github.com/ryuseonghan/NLP-Repository/blob/master/img/tt.png?raw=true)](http://twitter.com/home?status=https://ryuseonghan.github.io/NLP-Repository)
 
-## Table of Contents
-
-- [NLP in General](#nlp-in-general)
-- [Distributed Representation](#distributed-representation)
-- [Task-oriented Dialog System](#task-oriented-dialog-system)
-- [Question Answering](#question-answering)
-- [Machine Translation](#machine-translation)
-- [Chatbot](#chatbot)
-- [Sentiment Analysis](#sentiment-analysis)
-- [Language Modeling](#language-modeling)
-- [Uncategorized](#uncategorized)
-
 ## NLP in General
 
 Video Lectures
@@ -73,6 +61,19 @@ Reference
 - [awesome-nlp](https://github.com/keon/awesome-nlp)
 - [Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP)
 
+## Deep Learning for NLP
+
+Reviews & Tutorials
+
+- [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/abs/1708.02709), T. Young et al., arXiv, 2017
+- [Generating Sentences from a Continuous Space](https://arxiv.org/abs/1511.06349), CONLL, 2016 #VAE
+- [Text Classification, Part 3 - Hierarchical attention network](https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-HATN/), Richard, Personal Blog, 2016
+- [Text Classification, Part 2 - sentence level Attentional RNN](https://richliao.github.io/supervised/classification/2016/12/26/textclassifier-RNN/), Richard, Personal Blog, 2016
+- [Practical seq2seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/), Suriyadeepan Ramamoorthy, Personal Blog, 2016
+- [Recurrent Neural Networks Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [[Part 1]](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [[Part 2]](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/) [[Part 3]](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/) [[Part 4]](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), Denny Britz, WildML, 2015 [[Code]](https://github.com/dennybritz/rnn-tutorial-gru-lstm)
+- [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/), Denny Britz, WildML, 2015 [[Code]](https://github.com/dennybritz/cnn-text-classification-tf)
+- [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), Denny Britz, WildML, 2015
+
 ## Distributed Representation
 
 Reviews & Tutorials
@@ -83,11 +84,16 @@ Reviews & Tutorials
 
 Research Papers
 
+- [A Simple But Tough-To-Beat Baseline For Sentence Embeddings](https://openreview.net/pdf?id=SyK00v5xx), Sanjeev Arora et al., ICLR, 2017
 - [Swivel: Improving Embeddings by Noticing What's Missing](https://arxiv.org/abs/1602.02215), Noam Shazeer et al., arxiv, 2016 [[Code]](https://github.com/tensorflow/models/tree/master/swivel) #Google
+- [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://www.aclweb.org/anthology/P15-1150), Kai Sheng Tai et al., ACL, 2015
 - [A Hierarchical Neural Autoencoder for Paragraphs and Documents](https://arxiv.org/abs/1506.01057), Jiwei Li et al., ACL, 2015 [[Code]](https://github.com/jiweil/Hierarchical-Neural-Autoencoder)
-- [Improving Distributional Similarity with Lessons Learned from Word Embeddings](http://www.aclweb.org/anthology/Q15-1016), Omer Levy et al., TACL, 2015. 
+- [Improving Distributional Similarity with Lessons Learned from Word Embeddings](http://www.aclweb.org/anthology/Q15-1016), Omer Levy et al., TACL, 2015.
+- [From Word Embeddings To Document Distances](http://proceedings.mlr.press/v37/kusnerb15.pdf), Matt J. Kusner  et al., ICML, 2015
+- [Semi-supervised Sequence Learning](https://arxiv.org/abs/1511.01432), Andrew M. Dai et al., NIPS, 2015
 - [Distributed Representations of Sentences and Document](https://arxiv.org/abs/1405.4053) (Paragraph Vector), Quoc V. Le et al., ICML, 2014
 - [Glove: Global Vectors for Word Representation](http://www-nlp.stanford.edu/pubs/glove.pdf), Jeffrey Pennington et al., EMNLP, 2014 [[GloVe]](https://github.com/stanfordnlp/GloVe)
+- [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](http://dl.acm.org/citation.cfm?id=2505665), Po-Sen Huang et al., CIKM, 2013
 - [Learning word embeddings efficiently with noise-contrastive estimation](http://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf), Andriy Mnih et al., NIPS, 2013
 - [Linguistic Regularities in Continuous Space Word Representations](http://research.microsoft.com/pubs/189726/rvecs.pdf), Tomas Mikolov et al., NAACL-HLT, 2013
 - [Distributed Representations of Words and Phrases and their Compositionality](http://arxiv.org/pdf/1310.4546.pdf) (Negative Sampling), Tomas Mikolov et al., NIPS, 2013
@@ -102,6 +108,7 @@ Reviews & Tutorials
 
 Research Papers
 
+- [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960), Tiancheng Zhao et al., ACL, 2017
 - [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., arXiv, 2016
 - [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/abs/1606.02560), Tiancheng Zhao et al., SIGDIAL, 2016
 - [Stochastic Language Generation in Dialogue using Recurrent Neural Networks with Convolutional Sentence Reranking](http://www.sigdial.org/workshops/conference16/proceedings/pdf/SIGDIAL39.pdf), Tsung-Hsien Wen et al., SIGDIAL, 2015
@@ -116,6 +123,10 @@ Datasets
 - [Maluuba Frames Dataset](https://datasets.maluuba.com/Frames)
 
 ## Question Answering
+
+Reviews & Tutorials
+
+- [Learning to Reason by Reading Text and Answering Questions](https://www.youtube.com/watch?v=r0veZ_WV0sA), Minjoon Seo, NAVER D2, 2017
 
 Research Papers
 
@@ -144,7 +155,6 @@ Datasets
 
 Reviews & Tutorials
 
-- [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/), Denny Britz, WildML, 2016
 - [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/), Kyunghyun Cho, Deep Learning Summer School, 2016
 - [Neural Machine Translation](https://www.youtube.com/watch?v=z4CNmiLF-YU), Kyunghyun Cho, Microsoft Research Invited Talk, 2016
 - [Introduction to Neural Machine Translation with GPUs](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) [[Part 1]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) [[Part 2]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/) [[Part 3]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/), Kyunghyun Cho, NVIDIA Blog, 2015
@@ -166,7 +176,6 @@ Reviews & Tutorials
 - [Chatbots with Seq2Seq](http://suriyadeepan.github.io/2016-06-28-easy-seq2seq/) [[Part 1]](http://suriyadeepan.github.io/2016-06-28-easy-seq2seq/) [[Part 2]](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/), Suriyadeepan Ram, Personal Blog, 2016 
 - [Building AI Chat bot using Python 3 & TensorFlow](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow), Jeongkyu Shin, PyCon, 2016
 - [Deep Learning for Chatbots](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/), Denny Britz, WildML, 2016
-- [Practical seq2seq](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/), Suriyadeepan Ramamoorthy, Personal Blog, 2016
 
 Research Papers
 
@@ -186,8 +195,6 @@ Datasets
 
 Reviews & Tutorials
 
-- [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/), Denny Britz, WildML, 2015 [[Code]](https://github.com/dennybritz/cnn-text-classification-tf)
-- [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), Denny Britz, WildML, 2015
 - [LSTM Networks for Sentiment Analysis](http://www.deeplearning.net/tutorial/lstm.html), Pierre Luc Carrier, deeplearning.net, 2012
 
 Research Papers
@@ -203,10 +210,6 @@ Datasets
 
 ## Language Modeling
 
-Reviews & Tutorials
-
-- [Recurrent Neural Networks Tutorial](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [[Part 1]](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/) [[Part 2]](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/) [[Part 3]](http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/) [[Part 4]](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), Denny Britz, WildML, 2015 [[Code]](https://github.com/dennybritz/rnn-tutorial-gru-lstm)
-
 Research Papers
 
 - [Recurrent Highway Networks](https://arxiv.org/abs/1607.03474), Julian Georg Zilly et al., arXiv, 2017 [[Code]](https://github.com/julian121266/RecurrentHighwayNetworks)
@@ -220,18 +223,21 @@ Datasets
 - [1 Billion Word Language Model Benchmark](http://www.statmt.org/lm-benchmark/)
 - [Common Crawl](http://commoncrawl.org/the-data/)
 
-## Uncategorized
-
-Research Papers
+## Named Entity Recognition & Disambiguation
 
 - [Neural Architectures for Named Entity Recognition](http://aclweb.org/anthology/N/N16/N16-1030.pdf), Guillaume Lample et al., NAACL-HLT, 2016
-- [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://www.aclweb.org/anthology/P15-1150), Kai Sheng Tai et al., ACL, 2015
+- [Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation](http://ir.hit.edu.cn/~dytang/paper/ijcai2015/ijcai15-yaming.pdf), Yaming Sun et al., IJCAI, 2015
+- [Improving Efficiency and Accuracy in Multilingual Entity Extraction](https://pdfs.semanticscholar.org/196d/7e0a43587b0216c47a1ddb8cb1875aa1c1d0.pdf) (DBpedia Spotlight), Joachim Daibe et al., I-Semantics, 2013
+- [Robust Disambiguation of Named Entities in Text](http://dl.acm.org/citation.cfm?id=2145521) (AIDA), Johannes Hoffart et al., EMNLP, 2011
+- [Local and Global Algorithms for Disambiguation to Wikipedia](http://web.eecs.umich.edu/~mrander/pubs/RatinovDoRo.pdf), Lev Ratinov et al. ACL, 2011
+
+## Caption Generation
+
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](https://arxiv.org/abs/1502.03044), Kelvin Xu, ICML, 2015
 - [Show and Tell: A Neural Image Caption Generator](https://arxiv.org/abs/1411.4555), Oriol Vinyals et al., CVPR, 2015
 - [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf), Andrej Karpathy et al., CVPR, 2015 [[Code]](https://github.com/karpathy/neuraltalk) [[Demo]](http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/)
-- [Modeling Mention, Context and Entity with Neural Networks for Entity Disambiguation](http://ir.hit.edu.cn/~dytang/paper/ijcai2015/ijcai15-yaming.pdf), Yaming Sun et al., IJCAI, 2015
-- [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](http://dl.acm.org/citation.cfm?id=2505665), Po-Sen Huang et al., CIKM, 2013
-- [Improving Efficiency and Accuracy in Multilingual Entity Extraction](https://pdfs.semanticscholar.org/196d/7e0a43587b0216c47a1ddb8cb1875aa1c1d0.pdf) (DBpedia Spotlight), Joachim Daibe et al., I-Semantics, 2013
+
+
+## Syntactic Parsing
+
 - [Parsing Natural Scenes and Natural Language with Recursive Neural Networks](http://ai.stanford.edu/~ang/papers/icml11-ParsingWithRecursiveNeuralNetworks.pdf), Richard Socher et al., ICML, 2011
-- [Robust Disambiguation of Named Entities in Text](http://dl.acm.org/citation.cfm?id=2145521) (AIDA), Johannes Hoffart et al., EMNLP, 2011
-- [Local and Global Algorithms for Disambiguation to Wikipedia](http://web.eecs.umich.edu/~mrander/pubs/RatinovDoRo.pdf), Lev Ratinov et al. ACL, 2011
