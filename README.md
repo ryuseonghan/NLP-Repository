@@ -108,6 +108,8 @@ Reviews & Tutorials
 
 Research Papers
 
+- [The E2E Dataset: New Challenges For End-to-End Generation](https://arxiv.org/abs/1706.09254), Jekaterina Novikova et al., SIGDIAL, 2017 #NLG
+- [Generative Encoder-Decoder Models for Task-Oriented Spoken Dialog Systems with Chatting Capability](http://www.sigdial.org/workshops/conference18/proceedings/pdf/SIGDIAL5.pdf), Tiancheng Zhao et al., SIGDIAL, 2017
 - [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960), Tiancheng Zhao et al., ACL, 2017
 - [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., arXiv, 2016
 - [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/abs/1606.02560), Tiancheng Zhao et al., SIGDIAL, 2016
@@ -130,6 +132,7 @@ Reviews & Tutorials
 
 Research Papers
 
+- [Learning to Compose Neural Networks for Question Answering](http://www.aclweb.org/anthology/N16-1181), Jacob Andreas et al., NAACL-HLT, 2016
 - [Question Answering over Freebase with Multi-Column Convolutional Neural Networks](http://www.anthology.aclweb.org/P/P15/P15-1026.pdf), Li Dong et al., ACL-IJCNLP, 2015
 - [Large-scale Simple Question Answering with Memory Networks](https://arxiv.org/abs/1506.02075), Antoine Bordes et al., arXiv, 2015
 - [End-to-end Memory Networks](https://arxiv.org/abs/1503.08895) (MemN2N), Sainbayar Sukhbaatar et al., NIPS, 2015 [[Code]](https://github.com/facebook/MemNN)
@@ -241,3 +244,7 @@ Datasets
 ## Syntactic Parsing
 
 - [Parsing Natural Scenes and Natural Language with Recursive Neural Networks](http://ai.stanford.edu/~ang/papers/icml11-ParsingWithRecursiveNeuralNetworks.pdf), Richard Socher et al., ICML, 2011
+
+## Semantic Parsing
+
+- [Joint Concept Learning and Semantic Parsing from Natural Language Explanations](http://aclweb.org/anthology/D17-1161), Shashank Srivastava et al., EMNLP, 2017
