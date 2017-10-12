@@ -108,6 +108,8 @@ Reviews & Tutorials
 
 Research Papers
 
+- [End-to-end joint learning of natural language understanding and dialogue manager](http://ieeexplore.ieee.org/document/7953246), Xuesong Yang et al., ICASSP, 2017 
+- [Learning End-to-end Goal-oriented Dialog](https://openreview.net/pdf?id=S1Bb3D5gg), Antoine Bordes et al., ICLR, 2017
 - [The E2E Dataset: New Challenges For End-to-End Generation](https://arxiv.org/abs/1706.09254), Jekaterina Novikova et al., SIGDIAL, 2017 #NLG
 - [Generative Encoder-Decoder Models for Task-Oriented Spoken Dialog Systems with Chatting Capability](http://www.sigdial.org/workshops/conference18/proceedings/pdf/SIGDIAL5.pdf), Tiancheng Zhao et al., SIGDIAL, 2017
 - [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960), Tiancheng Zhao et al., ACL, 2017
@@ -158,6 +160,7 @@ Datasets
 
 Reviews & Tutorials
 
+- [Neural Machine Translation and Sequence-to-sequence Models: A Tutorial](https://arxiv.org/abs/1703.01619), Graham Neubig, arXiv, 2017
 - [Deep Natural Language Understanding](http://videolectures.net/deeplearning2016_cho_language_understanding/), Kyunghyun Cho, Deep Learning Summer School, 2016
 - [Neural Machine Translation](https://www.youtube.com/watch?v=z4CNmiLF-YU), Kyunghyun Cho, Microsoft Research Invited Talk, 2016
 - [Introduction to Neural Machine Translation with GPUs](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) [[Part 1]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/) [[Part 2]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/) [[Part 3]](https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/), Kyunghyun Cho, NVIDIA Blog, 2015
