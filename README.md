@@ -134,6 +134,7 @@ Reviews & Tutorials
 
 Research Papers
 
+- [Question-Answering with Grammatically-Interpretable Representations](https://arxiv.org/abs/1705.08432), Hamid Palangi et al, arXiv, 2017
 - [Learning to Compose Neural Networks for Question Answering](http://www.aclweb.org/anthology/N16-1181), Jacob Andreas et al., NAACL-HLT, 2016
 - [Question Answering over Freebase with Multi-Column Convolutional Neural Networks](http://www.anthology.aclweb.org/P/P15/P15-1026.pdf), Li Dong et al., ACL-IJCNLP, 2015
 - [Large-scale Simple Question Answering with Memory Networks](https://arxiv.org/abs/1506.02075), Antoine Bordes et al., arXiv, 2015
