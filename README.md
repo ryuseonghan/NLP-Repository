@@ -100,23 +100,18 @@ Research Papers
 - [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf) (word2vec, CBOW, and Skip-gram), Tomas Mikolov et al., ICLR, 2013 [[Code]](https://code.google.com/p/word2vec/)
 - [Software Framework for Topic Modelling with Large Corpora](https://radimrehurek.com/gensim/lrec2010_final.pdf) (gensim), Radim Řehůřek et al., LREC, 2010 [[Code]](https://github.com/RaRe-Technologies/gensim)
 
-## Task-oriented Dialog System
+
+## Dialogue System in General
 
 Reviews & Tutorials
 
 - [파이썬으로 챗봇 만들기](https://www.slideshare.net/KimSungdong1/20170227-72644192), Kim Sungdong, 2017
 
+
+## Natural Language Understanding of Dialogue System
+
 Research Papers
 
-- [End-to-end joint learning of natural language understanding and dialogue manager](http://ieeexplore.ieee.org/document/7953246), Xuesong Yang et al., ICASSP, 2017 
-- [Learning End-to-end Goal-oriented Dialog](https://openreview.net/pdf?id=S1Bb3D5gg), Antoine Bordes et al., ICLR, 2017
-- [The E2E Dataset: New Challenges For End-to-End Generation](https://arxiv.org/abs/1706.09254), Jekaterina Novikova et al., SIGDIAL, 2017 #NLG
-- [Generative Encoder-Decoder Models for Task-Oriented Spoken Dialog Systems with Chatting Capability](http://www.sigdial.org/workshops/conference18/proceedings/pdf/SIGDIAL5.pdf), Tiancheng Zhao et al., SIGDIAL, 2017
-- [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960), Tiancheng Zhao et al., ACL, 2017
-- [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., arXiv, 2016
-- [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/abs/1606.02560), Tiancheng Zhao et al., SIGDIAL, 2016
-- [Stochastic Language Generation in Dialogue using Recurrent Neural Networks with Convolutional Sentence Reranking](http://www.sigdial.org/workshops/conference16/proceedings/pdf/SIGDIAL39.pdf), Tsung-Hsien Wen et al., SIGDIAL, 2015
-- [Word-Based Dialog State Tracking with Recurrent Neural Networks](http://www.sigdial.org/workshops/sigdial2014/proceedings/pdf/W14-4340.pdf), Matthew Henderson et al., SIGDIAL, 2014
 - [Investigation of Recurrent-Neural-Network Architectures and Learning Methods for Spoken Language Understanding](https://www.microsoft.com/en-us/research/publication/investigation-of-recurrent-neural-network-architectures-and-learning-methods-for-spoken-language-understanding/), Grégoire Mesnil et al., Interspeech, 2013 [[Code]](https://github.com/mesnilgr/is13) [[Tutorial]](http://www.deeplearning.net/tutorial/rnnslu.html) #NER #ATIS
 
 Datasets
@@ -125,6 +120,27 @@ Datasets
 - [Facebook Dialog bAbI tasks](https://research.fb.com/projects/babi/)
 - [Facebook Movie Dialog dataset](https://research.fb.com/projects/babi/)
 - [Maluuba Frames Dataset](https://datasets.maluuba.com/Frames)
+
+## Dialogue Management and Dialogue State Tracking
+
+- [An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking](https://arxiv.org/abs/1805.01555), Puyang Xu, Qi Hu, 2018
+- [Global-Locally Self-Attentive Dialogue State Tracker](https://arxiv.org/abs/1805.09655), Victor Zhong, Caiming Xiong, Richard Socher, ACL, 2018
+- [Dialog state tracking, a machine reading approach using Memory Network](https://www.aclweb.org/anthology/E17-1029.pdf), Julien Perez et al., ACL, 2017
+- [Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders](https://arxiv.org/abs/1703.10960), Tiancheng Zhao et al., ACL, 2017
+- [Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning](https://arxiv.org/abs/1606.02560), Tiancheng Zhao et al., SIGDIAL, 2016
+- [Word-Based Dialog State Tracking with Recurrent Neural Networks](http://www.sigdial.org/workshops/sigdial2014/proceedings/pdf/W14-4340.pdf), Matthew Henderson et al., SIGDIAL, 2014
+
+
+## Natural Language Generation
+
+- [The E2E Dataset: New Challenges For End-to-End Generation](https://arxiv.org/abs/1706.09254), Jekaterina Novikova et al., SIGDIAL, 2017 #NLG
+- [Stochastic Language Generation in Dialogue using Recurrent Neural Networks with Convolutional Sentence Reranking](http://www.sigdial.org/workshops/conference16/proceedings/pdf/SIGDIAL39.pdf), Tsung-Hsien Wen et al., SIGDIAL, 2015
+
+## End-to-end Dialogue System
+
+- [End-to-end joint learning of natural language understanding and dialogue manager](http://ieeexplore.ieee.org/document/7953246), Xuesong Yang et al., ICASSP, 2017
+- [Learning End-to-end Goal-oriented Dialog](https://openreview.net/pdf?id=S1Bb3D5gg), Antoine Bordes et al., ICLR, 2017
+- [A Network-based End-to-End Trainable Task-oriented Dialogue System](https://arxiv.org/pdf/1604.04562v2.pdf), Tsung-Hsien Wen et al., arXiv, 2016
 
 ## Question Answering
 
@@ -156,6 +172,10 @@ Datasets
 - [CMU Question-Answer Dataset](http://www.cs.cmu.edu/~ark/QA-data/)
 - [Maluuba NewsQA dataset](https://datasets.maluuba.com/NewsQA)
 - [Quora Question Pairs](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)
+
+## Chitchat
+
+- [Generative Encoder-Decoder Models for Task-Oriented Spoken Dialog Systems with Chatting Capability](http://www.sigdial.org/workshops/conference18/proceedings/pdf/SIGDIAL5.pdf), Tiancheng Zhao et al., SIGDIAL, 2017
 
 ## Machine Translation
 
