@@ -239,6 +239,8 @@ Datasets
 
 Research Papers
 
+- [Token Dropping for Efficient BERT Pretraining](https://arxiv.org/abs/2203.13240), Google, 2022
+- Chinchillia: [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556), DeepMind, 2022 : 모델 크기는 줄이고 데이터를 늘려도 좋은 성능이 나온다
 - [Recurrent Highway Networks](https://arxiv.org/abs/1607.03474), Julian Georg Zilly et al., arXiv, 2017 [[Code]](https://github.com/julian121266/RecurrentHighwayNetworks)
 - [Recurrent Neural Network based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf), Tomas Mikolov et al., Interspeech, 2010 [[Code]](http://www.fit.vutbr.cz/~imikolov/rnnlm/)
 - [A Scalable Hierarchical Distributed Language Model](https://papers.nips.cc/paper/3583-a-scalable-hierarchical-distributed-language-model) (Hierarchical Softmax), Andriy Mnih, NIPS, 2008
