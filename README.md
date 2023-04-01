@@ -74,7 +74,7 @@ Reviews & Tutorials
 - [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/), Denny Britz, WildML, 2015 [[Code]](https://github.com/dennybritz/cnn-text-classification-tf)
 - [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/), Denny Britz, WildML, 2015
 
-## Distributed Representation
+## Sentence Representation
 
 Reviews & Tutorials
 
@@ -99,14 +99,6 @@ Research Papers
 - [Distributed Representations of Words and Phrases and their Compositionality](http://arxiv.org/pdf/1310.4546.pdf) (Negative Sampling), Tomas Mikolov et al., NIPS, 2013
 - [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781.pdf) (word2vec, CBOW, and Skip-gram), Tomas Mikolov et al., ICLR, 2013 [[Code]](https://code.google.com/p/word2vec/)
 - [Software Framework for Topic Modelling with Large Corpora](https://radimrehurek.com/gensim/lrec2010_final.pdf) (gensim), Radim Řehůřek et al., LREC, 2010 [[Code]](https://github.com/RaRe-Technologies/gensim)
-
-
-## Dialogue System in General
-
-Reviews & Tutorials
-
-- [파이썬으로 챗봇 만들기](https://www.slideshare.net/KimSungdong1/20170227-72644192), Kim Sungdong, 2017
-
 
 ## Natural Language Understanding of Dialogue System
 
@@ -235,12 +227,14 @@ Datasets
 - [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
 - [Large Movie Review Dataset (IMDB)](http://ai.stanford.edu/~amaas/data/sentiment/)
 
-## Language Modeling
+## Language Model
 
 Research Papers
 
+- InstructGPT: [Training language models tofollow instructions with human feedback](https://arxiv.org/abs/2203.02155), Long Ouyang et al. (OpenAI), 2022
 - [Token Dropping for Efficient BERT Pretraining](https://arxiv.org/abs/2203.13240), Google, 2022
 - Chinchillia: [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556), DeepMind, 2022 : 모델 크기는 줄이고 데이터를 늘려도 좋은 성능이 나온다
+- GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), Tom B. Brown et al. (OpenAI), 2020
 - [Recurrent Highway Networks](https://arxiv.org/abs/1607.03474), Julian Georg Zilly et al., arXiv, 2017 [[Code]](https://github.com/julian121266/RecurrentHighwayNetworks)
 - [Recurrent Neural Network based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf), Tomas Mikolov et al., Interspeech, 2010 [[Code]](http://www.fit.vutbr.cz/~imikolov/rnnlm/)
 - [A Scalable Hierarchical Distributed Language Model](https://papers.nips.cc/paper/3583-a-scalable-hierarchical-distributed-language-model) (Hierarchical Softmax), Andriy Mnih, NIPS, 2008
@@ -267,10 +261,16 @@ Datasets
 - [Deep Visual-Semantic Alignments for Generating Image Descriptions](http://cs.stanford.edu/people/karpathy/cvpr2015.pdf), Andrej Karpathy et al., CVPR, 2015 [[Code]](https://github.com/karpathy/neuraltalk) [[Demo]](http://cs.stanford.edu/people/karpathy/deepimagesent/rankingdemo/)
 
 
-## Syntactic Parsing
+## POS Tagging, Syntactic Parsing, Semantic Parsing
 
 - [Parsing Natural Scenes and Natural Language with Recursive Neural Networks](http://ai.stanford.edu/~ang/papers/icml11-ParsingWithRecursiveNeuralNetworks.pdf), Richard Socher et al., ICML, 2011
-
-## Semantic Parsing
-
 - [Joint Concept Learning and Semantic Parsing from Natural Language Explanations](http://aclweb.org/anthology/D17-1161), Shashank Srivastava et al., EMNLP, 2017
+
+
+## Out-of-domain Detection
+
+- [Revisiting Mahalanobis Distance for Transformer-Based Out-of-Domain Detection](https://arxiv.org/abs/2101.03778), Alexander Podolskiy et al., AAAI 2021
+- [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/abs/1807.03888), Kimin Lee, Kibok Lee, Honglak Lee, Jinwoo Shin, NIPS 2018
+
+## Retrieval
+
