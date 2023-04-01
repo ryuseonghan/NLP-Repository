@@ -235,6 +235,7 @@ Research Papers
 - [Token Dropping for Efficient BERT Pretraining](https://arxiv.org/abs/2203.13240), Google, 2022
 - Chinchillia: [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556), DeepMind, 2022 : 모델 크기는 줄이고 데이터를 늘려도 좋은 성능이 나온다
 - GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), Tom B. Brown et al. (OpenAI), 2020
+- [SpanBERT: Improving Pre-training by Representing and Predicting Spans](https://arxiv.org/abs/1907.10529), Mandar Joshi et al., 2020
 - [Recurrent Highway Networks](https://arxiv.org/abs/1607.03474), Julian Georg Zilly et al., arXiv, 2017 [[Code]](https://github.com/julian121266/RecurrentHighwayNetworks)
 - [Recurrent Neural Network based Language Model](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf), Tomas Mikolov et al., Interspeech, 2010 [[Code]](http://www.fit.vutbr.cz/~imikolov/rnnlm/)
 - [A Scalable Hierarchical Distributed Language Model](https://papers.nips.cc/paper/3583-a-scalable-hierarchical-distributed-language-model) (Hierarchical Softmax), Andriy Mnih, NIPS, 2008
@@ -274,3 +275,8 @@ Datasets
 
 ## Retrieval
 
+## Calibration
+
+- [Rethinking Calibration of Deep Neural Network: Do Not Be Afraid of Overconfidence](https://proceedings.neurips.cc/paper/2021/hash/61f3a6dbc9120ea78ef75544826c814e-Abstract.html), Deng-Bao Wang et al., NIPS 2021
+
+## Prompt Engineering
